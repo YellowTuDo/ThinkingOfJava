@@ -18,9 +18,9 @@
 
 ![](https://user-gold-cdn.xitu.io/2019/11/21/16e8d186c91cd398?w=726&h=395&f=png&s=164561)
 
-## 联系我
+## 联系我/公众号
 记得备注下，么么哒~
 
-<img height=360px src="https://user-gold-cdn.xitu.io/2019/11/30/16eb9e077fb5c040?w=877&h=434&f=png&s=119828"></img> 
+<img height=360px src="https://user-gold-cdn.xitu.io/2019/11/30/16eb9e2e7fc9dce0?w=877&h=434&f=png&s=117216"></img> 
 
 
