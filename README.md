@@ -22,5 +22,3 @@
 
 <img height=360px src="https://user-gold-cdn.xitu.io/2019/11/30/16eb9e2e7fc9dce0?w=877&h=434&f=png&s=117216"></img> </br>
 
-## 关于我
-今年24，祖籍江西鄱阳，现籍杭州。土木工程专业，目前在阿里外包。
