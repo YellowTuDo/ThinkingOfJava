@@ -3,7 +3,7 @@
 
 >一切不可想象，终将化为寻常。
 
-<div align="center"><a href="https://github.com/JavaKongHao/JavaTeam#%E8%81%94%E7%B3%BB%E6%88%91"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen"></img></a>&emsp;<a href="https://juejin.im/user/5dcd7f6f6fb9a0203d746ca4"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%8E%98%E9%87%91-blue"></img></a>&emsp;<a href="https://github.com/JavaKongHao/JavaTeam/blob/master/README.md#%E8%81%94%E7%B3%BB%E6%88%91%E5%85%AC%E4%BC%97%E5%8F%B7"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaTeam-808080"></img></a>&emsp;<a href="https://blog.csdn.net/weixin_44781310"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-CSDN-red"></img></a>&emsp;<a href="https://www.cnblogs.com/JavakongHao/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%8D%9A%E5%AE%A2%E5%9B%AD-brightgreen"></img></a></div>  
+<div align="center"><a href="https://github.com/JavaKongHao/JavaTeam#%E8%81%94%E7%B3%BB%E6%88%91%E5%85%AC%E4%BC%97%E5%8F%B7"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen"></img></a>&emsp;<a href="https://juejin.im/user/5dcd7f6f6fb9a0203d746ca4"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%8E%98%E9%87%91-blue"></img></a>&emsp;<a href="https://github.com/JavaKongHao/JavaTeam#%E8%81%94%E7%B3%BB%E6%88%91%E5%85%AC%E4%BC%97%E5%8F%B7"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaTeam-808080"></img></a>&emsp;<a href="https://blog.csdn.net/weixin_44781310"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-CSDN-red"></img></a>&emsp;<a href="https://www.cnblogs.com/JavakongHao/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%8D%9A%E5%AE%A2%E5%9B%AD-brightgreen"></img></a></div>  
 
 ----
 
@@ -23,4 +23,4 @@
 <img height=360px src="https://user-gold-cdn.xitu.io/2019/11/30/16eb9e2e7fc9dce0?w=877&h=434&f=png&s=117216"></img> </br>
 
 ## 关于我
-今年24，祖籍江西鄱阳，现籍杭州，只言片语勾勒不出我，转行的兄弟，谁没个故事，欢迎加我微信。
+今年24，祖籍江西鄱阳，现籍杭州。土木工程专业，目前在阿里外包。
