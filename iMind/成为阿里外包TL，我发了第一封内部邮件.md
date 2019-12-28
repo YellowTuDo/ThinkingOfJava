@@ -7,7 +7,7 @@
 </br> 
  
 ##  <div style="border-bottom:1px solid #DEDEDE">前言</div>
-本文不带任何感情色彩，从自己作为一个小白程序员的世界去剖析认识我眼中的的<code style=" background-color: #fff5f5;color: #ff502c;font-size: .87em;padding: .065em .4em;">Team Leader</code>该是什么样子。
+本文不带任何感情色彩，从自己作为一个小白程序员的世界去剖析认识我眼中的<code style=" background-color: #fff5f5;color: #ff502c;font-size: .87em;padding: .065em .4em;">Team Leader</code>该是什么样子。
 
 
 ##  <div style="border-bottom:1px solid #DEDEDE">邮件（有删改）</div>
